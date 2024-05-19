@@ -1,5 +1,16 @@
 # Changelog
 
+## [0.57.1](https://github.com/bpg/terraform-provider-proxmox/compare/v0.57.0...v0.57.1) (2024-05-19)
+
+
+### Miscellaneous
+
+* **ci:** update actions/checkout action (v4.1.5 → v4.1.6) ([#1305](https://github.com/bpg/terraform-provider-proxmox/issues/1305)) ([0494fcb](https://github.com/bpg/terraform-provider-proxmox/commit/0494fcb16772cd69d510d42594badfc83ae2e0ac))
+* **ci:** update jetbrains/qodana-action action (v2024.1.4 → v2024.1.5) ([#1306](https://github.com/bpg/terraform-provider-proxmox/issues/1306)) ([48fdb03](https://github.com/bpg/terraform-provider-proxmox/commit/48fdb03c8aac90f15040e7a7cad317acb535c797))
+* **deps:** update github.com/hashicorp/terraform-plugin-* ([#1309](https://github.com/bpg/terraform-provider-proxmox/issues/1309)) ([7d1b400](https://github.com/bpg/terraform-provider-proxmox/commit/7d1b4006412962aeef40bd64d38021c807543e0e))
+* **vm2:** add support for `cpu` ([#1310](https://github.com/bpg/terraform-provider-proxmox/issues/1310)) ([aa309fd](https://github.com/bpg/terraform-provider-proxmox/commit/aa309fd9eabad00e7694b8bd7d63cad6180d7118))
+* **vm2:** cleanup `cpu` implementation, refactor rearrange acc tests ([#1311](https://github.com/bpg/terraform-provider-proxmox/issues/1311)) ([2e34c57](https://github.com/bpg/terraform-provider-proxmox/commit/2e34c57f6c95bff2f3e35ee617e783a78616c900))
+
 ## [0.57.0](https://github.com/bpg/terraform-provider-proxmox/compare/v0.56.1...v0.57.0) (2024-05-16)
 
 
